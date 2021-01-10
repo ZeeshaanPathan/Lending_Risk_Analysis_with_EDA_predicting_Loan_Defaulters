@@ -56,5 +56,3 @@ Mention the problem statement and the analysis approach briefly
 Explain the results of univariate, bivariate analysis etc. in business terms
 Include visualisations and summarise the most important results in the presentation
  
-
-You need to submit one Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. 
